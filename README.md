@@ -12,5 +12,5 @@ A ready made Wordpress/Woocommerce plugin template to give you a jump start. It 
 If you want to contribute, send in your pull requests. Please clearly explain the pupose of proposed change i.e if it is enhancement, upgrade of a resource like jquery etc.
 
 <h2>Examples</h2>
-I am using it in many tutorials on my youtube channel here <a href="https://www.youtube.com/user/LovelyKamran">https://www.youtube.com/user/LovelyKamran</a>
+I am using it in many tutorials on my youtube channel here <a href="https://www.youtube.com/user/LovelyKamran">https://www.youtube.com/user/LovelyKamran</a><br/>
 Here is an <a href="https://youtu.be/HXcSXGxqBKA">introductory video</a> explaining the use of this object oriented plugin template.
