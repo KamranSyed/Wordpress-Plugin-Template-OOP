@@ -1,5 +1,5 @@
 # Wordpress-Plugin-Template-OOP
-A ready made Wordpress/Woocommerce plugin template to give you a jump start.
+A ready made Wordpress/Woocommerce plugin template to give you a jump start. It is FREE Wordpress and Woocommerce Plugin Template.
 
 <h2>How to Use</h2>
 1-Download as zip or clone if you are using git.<br/>
