@@ -13,4 +13,4 @@ If you want to contribute, send in your pull requests. Please clearly explain th
 
 <h2>Examples</h2>
 I am using it in many tutorials on my youtube channel here <a href="https://www.youtube.com/user/LovelyKamran">https://www.youtube.com/user/LovelyKamran</a>
-
+Here is an <a href="https://youtu.be/HXcSXGxqBKA">introductory video</a> explaining the use of this object oriented plugin template.
